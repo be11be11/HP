@@ -45,11 +45,11 @@ img.ヘア2 {border:8px solid transparent; width: 45%; opacity: 0; z-index: -1; 
   
 div.メニュー1 img {width: 35%; margin-top: 1%; margin-left: 5%; }
 
-div.text2 {width: 35%; height: 275px; margin-top: -20%; margin-left: 50%; }
+div.text2 {background-color:rgba(100, 250, 0, 0); width: 35%; height: 275px; margin-top: -20%; margin-left: 50%; }
 
 div.emiko1 img {width: 35%; margin-top: 1%; margin-left: 5%; }
 
-div.text3 {background-color:rgba(100, 250, 0, 0); width: 35%; height: 275px; margin-top: -10%; margin-left: 50%; }
+div.text3 {width: 35%; height: 275px; margin-top: -10%; margin-left: 50%; }
 
 .sns1 {width: 15%; position: absolute; margin-top: 7%; margin-left: 15%; }
 .sns2 {width: 15%; position: absolute; margin-top: 1%; margin-left: 35%; }  
@@ -108,11 +108,11 @@ img.ヘア5 {border:2px solid transparent; width: 40%; box-sizing: border-box; d
    
 div.メニュー1 img {width: 35%; margin-top: 3%; margin-left: 7%; }
 
-div.text2 {width: 35%; height: 490px; margin-top: -25%; margin-left: 55%; }
+div.text2 {background-color:rgba(100, 250, 0, 0); width: 35%; height: 490px; margin-top: -25%; margin-left: 55%; }
 
 div.emiko1 img {width: 35%; margin-top: 3%; margin-left: 7%;  }
 
-div.text3 {background-color:rgba(100, 250, 0, 0); width: 35%; height: 490px; margin-top: -25%; margin-left: 55%; }
+div.text3 {width: 35%; height: 490px; margin-top: -25%; margin-left: 55%; }
 
 .sns1 {width: 15%; position: absolute; margin-top: 4%; margin-left: 15%; }
 .sns2 {width: 15%; position: absolute; margin-top: 1%; margin-left: 35%; }  
@@ -171,11 +171,11 @@ img.ヘア5 {border:2px solid transparent; width: 32.5%; box-sizing: border-box;
    
 div.メニュー1 img {width: 15%; margin-top: 5%; margin-left: 10%; }
 
-div.text2 {width: 35%; height: 400px; margin-top: -20%; margin-left: 50%; }
+div.text2 {background-color:rgba(100, 250, 0, 0); width: 35%; height: 400px; margin-top: -20%; margin-left: 50%; }
 
 div.emiko1 img {width: 15%; margin-top: 5%; margin-left: 10%; }
 
-div.text3 {background-color:rgba(100, 250, 0, 0); width: 35%; height: 400px; margin-top: -10%; margin-left: 50%; }
+div.text3 {width: 35%; height: 400px; margin-top: -10%; margin-left: 50%; }
 
 .sns1 {width: 7.5%; position: absolute; margin-top: 3%; margin-left: 23%; }
 .sns2 {width: 7.5%; position: absolute; margin-top: 1%; margin-left: 37%; }  
