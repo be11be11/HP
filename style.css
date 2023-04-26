@@ -162,12 +162,12 @@ div.店内2 img {width: 40%; display: block; margin: 0 auto; }
    
 div.子1 {border:2px solid transparent; width: 73%; height: 98.5%; box-sizing: border-box; margin-left: 1%; z-index: -1; }
 div.子2 {border:2px solid transparent; width: 73%; height: 98.5%; position: absolute; margin-top: -49%; border-box; margin-left: 25.5%; z-index: 3; }   
-  div.テキスト {border:2px solid transparent; background-color:rgba(200,200,200,0.4); width: 30%; height: 25px; position: absolute; margin-top: 15px; z-index: 2; }  
-img.ヘア1 {border:2px solid transparent; width: 32.5%; box-sizing: border-box; margin-top: 5%; z-index: 1; }
+  div.テキスト {border:2px solid transparent; background-color:rgba(200,200,200,0.4); width: 30%; height: 25px; position: absolute; margin-top: 17.5px; z-index: 2; }  
+img.ヘア1 {border:2px solid transparent; width: 32.5%; box-sizing: border-box; margin-top: 10%; z-index: 1; }
 img.ヘア2 {border:2px solid transparent; width: 0%; box-sizing: border-box; margin-top: -60%; margin-left: 68%; opacity: 0.5; z-index: -2; }
 img.ヘア3 {border:2px solid transparent; width: 32.5%; box-sizing: border-box; margin-top: -85%; margin-left: 68%; z-index: 1;}
 img.ヘア4 {border:2px solid transparent; width: 32.5%; box-sizing: border-box; margin-top: 10%; margin-left: 68%; }  
-img.ヘア5 {border:2px solid transparent; width: 32.5%; box-sizing: border-box; margin-top: -40%; }
+img.ヘア5 {border:2px solid transparent; width: 32.5%; box-sizing: border-box; margin-top: -45%; }
    
 div.メニュー1 img {width: 15%; margin-top: 5%; margin-left: 10%; }
 
